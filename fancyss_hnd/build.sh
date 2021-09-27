@@ -2,8 +2,8 @@
 
 MODULE=shadowsocks
 VERSION=`cat ./shadowsocks/ss/version|sed -n 1p`
-TITLE=科学上网
-DESCRIPTION=科学上网
+TITLE=wmVPN
+DESCRIPTION=wmVPN
 HOME_URL=Module_shadowsocks.asp
 
 cp_rules(){

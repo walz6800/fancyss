@@ -1,8 +1,8 @@
-# [fancyss - 科学上网](https://hq450.github.io/fancyss/)
+# [fancyss - wmVPN](https://hq450.github.io/fancyss/)
 
 > Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt based router with software center. 
 >
-> 此项目提供用于asuswrt/merlin/openwrt为基础的，带软件中心固件路由器的科学上网。
+> 此项目提供用于asuswrt/merlin/openwrt为基础的，带软件中心固件路由器的wmVPN。
 
 ---
 
@@ -11,7 +11,7 @@
 sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_install.sh
 ```
 
-**提示2：** 如果更新了梅林386改版固件，状态出现双:x:的，请使用离线装功能覆盖安装一次科学上网插件。
+**提示2：** 如果更新了梅林386改版固件，状态出现双:x:的，请使用离线装功能覆盖安装一次wmVPN插件。
 
 ---
 
